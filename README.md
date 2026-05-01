@@ -23,7 +23,7 @@ FDD answers three core questions:
 
 **What it is:** An analysis that separates sustainable, recurring earnings from one-time or non-recurring items.
 
-**Why it matters:** A business might report INR 50 Cr. EBITDA — but if INR 15 Cr. of that came from a one-time government subsidy, the true run-rate EBITDA is INR 35 Cr. The deal price should reflect that.
+**Why it matters:** A business might report INR 50 Cr. EBITDA - but if INR 15 Cr. of that came from a one-time government subsidy, the true run-rate EBITDA is INR 35 Cr. The deal price should reflect that.
 
 ### The QoE Waterfall Structure
 
