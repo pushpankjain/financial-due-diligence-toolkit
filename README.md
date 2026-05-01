@@ -1,9 +1,8 @@
 financial-due-diligence-toolkit
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Financial Due Diligence Toolkit
 
-A practitioner's reference for financial due diligence — built from live deal experience across AI infrastructure, D2C consumer brands, FMCG, ethnic apparel, and real estate transactions at PwC and EY.
+A practitioner's reference for financial due diligence - built from live deal experience across AI infrastructure, D2C consumer brands, FMCG, ethnic apparel, and real estate transactions at PwC and EY.
 
 This is not a textbook. Every framework here has been applied on real transactions.
 
@@ -11,7 +10,7 @@ This is not a textbook. Every framework here has been applied on real transactio
 
 ## What is Financial Due Diligence?
 
-Financial due diligence (FDD) is the structured investigation a buyer or investor conducts before closing a deal. The goal is not to find problems — it's to understand a business well enough to **price risk accurately**.
+Financial due diligence (FDD) is the structured investigation a buyer or investor conducts before closing a deal. The goal is not to find problems - it's to understand a business well enough to **price risk accurately**.
 
 FDD answers three core questions:
 1. Are the reported earnings real and sustainable?
@@ -20,7 +19,7 @@ FDD answers three core questions:
 
 ---
 
-## Framework 1 — Quality of Earnings (QoE)
+## Framework 1 - Quality of Earnings (QoE)
 
 **What it is:** An analysis that separates sustainable, recurring earnings from one-time or non-recurring items.
 
@@ -47,7 +46,7 @@ Reported EBITDA (as per management accounts)
 - Does the business have unusual related-party transactions?
 - Has growth been organic or driven by a one-time event (e.g., COVID tailwind)?
 
-### Real Deal Example — Hocco Ice Cream (Buy-side, INR 345 Cr.+ brand)
+### Real Deal Example - Hocco Ice Cream (Buy-side, INR 345 Cr.+ brand)
 
 On this engagement, we validated INR 345 Cr. in 8MFY26 revenues by:
 - Analysing SKU-level gross margins to identify margin dilutive products
@@ -56,7 +55,7 @@ On this engagement, we validated INR 345 Cr. in 8MFY26 revenues by:
 
 ---
 
-## Framework 2 — Net Debt Bridge
+## Framework 2 - Net Debt Bridge
 
 **What it is:** A calculation of the business's true financial obligations on closing day, which directly adjusts the equity price paid by the buyer.
 
@@ -74,18 +73,18 @@ Cash & Cash Equivalents
 ─────────────────────────────────────────────
 = Net Debt (Cash) Position
 
-Equity Value = Enterprise Value − Net Debt
+Equity Value = Enterprise Value - Net Debt
 ```
 
-### Real Deal Example — True Elements (Marico Buy-side, INR 138 Cr.)
+### Real Deal Example - True Elements (Marico Buy-side, INR 138 Cr.)
 
 Net debt and normalized earnings computations on this deal directly shaped the equity consideration framework for Marico's buyout of the residual 46% stake. The precision of these workings determined the final price per share paid to minority shareholders.
 
 ---
 
-## Framework 3 — Working Capital Analysis
+## Framework 3 - Working Capital Analysis
 
-**What it is:** An assessment of how much cash the business needs to fund its day-to-day operations — and whether the historical level is sustainable going forward.
+**What it is:** An assessment of how much cash the business needs to fund its day-to-day operations - and whether the historical level is sustainable going forward.
 
 **The formula:**
 
@@ -99,7 +98,7 @@ Locked Box / Completion Accounts = The mechanism for settling any difference
 
 ### Why it matters for deal pricing
 
-If a business requires INR 20 Cr. of working capital to operate, but on closing day only INR 12 Cr. is present, the buyer effectively pays INR 8 Cr. extra for the business — unless the SPA has a working capital adjustment mechanism.
+If a business requires INR 20 Cr. of working capital to operate, but on closing day only INR 12 Cr. is present, the buyer effectively pays INR 8 Cr. extra for the business - unless the SPA has a working capital adjustment mechanism.
 
 ### Signals of working capital risk
 
@@ -109,7 +108,7 @@ If a business requires INR 20 Cr. of working capital to operate, but on closing 
 
 ---
 
-## Framework 4 — Revenue Quality Assessment
+## Framework 4 - Revenue Quality Assessment
 
 **The key questions:**
 
@@ -121,7 +120,7 @@ If a business requires INR 20 Cr. of working capital to operate, but on closing 
 | Seasonality | Is the revenue pattern lumpy or consistent? |
 | Contractual vs. discretionary | Are revenues locked in via contracts or purely discretionary? |
 
-### Real Deal Example — Kisah Apparels (Buy-side, INR 35 Cr. Fundraise)
+### Real Deal Example - Kisah Apparels (Buy-side, INR 35 Cr. Fundraise)
 
 Key revenue quality risks flagged for Fireside Ventures' IC deliberation:
 - **Wedding-occasion dependence**: Disproportionate revenue in wedding season (Oct–Feb)
@@ -132,7 +131,7 @@ Key revenue quality risks flagged for Fireside Ventures' IC deliberation:
 
 ## About This Repository
 
-Built by **Pushpank Jain** — Chartered Accountant (ICAI, 2024), Associate at PwC Financial Due Diligence, Mumbai.
+Built by **Pushpank Jain** - Chartered Accountant (ICAI, 2024), Associate at PwC Financial Due Diligence, Mumbai.
 
 All frameworks here are drawn from live deal experience. Client names are disclosed only where publicly known (e.g., Blackstone/Neysa, Marico/True Elements).
 
